@@ -1,4 +1,4 @@
-use clap::{AppSettings};
+use clap::{AppSettings, Parser};
 
 pub struct CliOpts {
   
